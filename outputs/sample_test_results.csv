@@ -1,0 +1,5 @@
+case,flow_in,flow_out,pressure,water_usage,leak_prob,status
+Normal flow,50,49.5,60,49.5,0.0,Normal
+Normal peak demand,72,71.5,55,71.5,0.2,Normal
+Small leak,52,46.0,52,46.0,1.0,LEAK
+Large leak,55,40.0,44,40.0,1.0,LEAK
